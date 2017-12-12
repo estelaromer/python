@@ -1,0 +1,9 @@
+Country Name	Population(millions)
+China	1339.72
+Brazil	206.93
+India	1336.29
+Turkey	78.74
+Tonga	0.103
+Vanuatu	0.253
+Sao Tome and Principe	0.192
+Solomon Islands	0.561
